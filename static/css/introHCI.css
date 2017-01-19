@@ -31,4 +31,63 @@ body {
      right: 0;
      position: absolute;
      z-index: -1;	
+
 }
+
+.project{
+
+    
+     background-color: grey;
+   
+}
+
+#project1{
+     margin-left: 1px; 
+     background-color: rgb(135, 206, 250);
+     padding: 20px;
+     width: 525px;
+     
+}
+
+#project2{
+     margin-left: 1px; 
+     background-color: red;
+     padding: 20px;
+    
+}
+
+#project3{
+     margin-left: 1px; 
+     background-color: blue;
+     padding: 20px;
+    
+}
+#project4{
+     margin-left: 1px; 
+     background-color: green;
+     padding: 20px;
+     
+}
+#project5{
+     margin-left: 1px; 
+     background-color: orange;
+     padding: 20px;
+    }
+
+#project6{
+     margin-left: 1px; 
+     background-color: rgb(150, 0, 240);
+     padding: 20px;
+   
+}
+#project7{
+     margin-left: 1px; 
+     background-color: rgb(55, 55, 150);
+     padding: 20px;
+     
+}
+#project8{
+     margin-left: 1px; 
+     background-color: rgb(35, 255, 65);
+     padding: 20px;
+     }
